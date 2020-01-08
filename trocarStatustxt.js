@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
 	$('#btn2').hide()
 	$('#Exibirtxt').hide()
 	$('#btn').click(function(){
